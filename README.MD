@@ -29,16 +29,16 @@ The goal of this project is to apply and compare several machine learning classi
 
 How effective are different machine learning classification algorithms in predicting AD based on extensive patient health information? Specifically, which algorithm provides the highest accuracy and reliability for early detection of AD?
 
-## Assumptions (_Hypothesis_)
+**Assumptions** (_Hypothesis_)
 
 1. When symptoms appear after the age of 60, it implies late-onset AD which is the most common form of the disease. Family history of dementia is a known risk factor for developing late-onset AD. Therefore, I expect that family history is a factor contributing to AD. Therefore, it could be highly positively correlated with AD positives. Is that true, given the dataset?
 
-2. Does education level affect AD?
+2. Does education level affect AD? :trollface:
 
 ## Dataset Details
 
 - **Source:** Kaggle
-- **URL:** [text](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset)
+- **URL:** [https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset)
 
 ### Dataset Features
 
@@ -82,9 +82,9 @@ How effective are different machine learning classification algorithms in predic
 
 ## Relevant Domain Information
 
-- Rapid Alzheimer's Disease Diagnosis Using Advanced Artificial Intelligence Algorithms: [text](https://www.ijisrt.com/assets/upload/files/IJISRT24JUN1915.pdf)
-- Early-Stage Alzheimer's Disease Prediction Using Machine Learning Models: [text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8927715/)
-- Classification of Alzheimer's Disease using Machine Learning Techniques: [text](https://www.scitepress.org/Papers/2019/79499/79499.pdf)
+- Rapid Alzheimer's Disease Diagnosis Using Advanced Artificial Intelligence Algorithms: [https://www.ijisrt.com/assets/upload/files/IJISRT24JUN1915.pdf](https://www.ijisrt.com/assets/upload/files/IJISRT24JUN1915.pdf)
+- Early-Stage Alzheimer's Disease Prediction Using Machine Learning Models: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8927715/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8927715/)
+- Classification of Alzheimer's Disease using Machine Learning Techniques: [https://www.scitepress.org/Papers/2019/79499/79499.pdf](https://www.scitepress.org/Papers/2019/79499/79499.pdf)
 
 ## Binary Classification Workflow
 
