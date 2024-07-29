@@ -1,5 +1,7 @@
 # 🧠 Alzheimer's Disease Prediction - Machine Learning 🧠
 
+**View My Solution on Kaggle**([Click here to view](https://www.kaggle.com/code/sahandnamvar/fork-of-binary-classification-eda-prediction))
+
 ## Team Members
 
 - **Sahand Namvar**
@@ -15,15 +17,13 @@ The goal of this project is to apply and compare several machine learning classi
 - **Descriptive:** Analyze and visualize the dataset to understand the distribution and relationships among different features.
 - **Predictive:** Evaluate various machine learning classification algorithms to predict AD status.
 - **Techniques:** Implement and compare the following supervised learning techniques to determine the most accurate and reliable model for binary classification:
-  - Support Vector Machines (SVM)
+  - Decision Tree
+  - Random Forest
   - K-Nearest Neighbor (KNN)
   - Logistic Regression
   - Random Forest Classifier
-  - Decision Tree
-  - Naive Bayes Classifier
-  - Gradient Boosting (GBoost) Classifier
-  - Extreme Gradient Boosting (XGBoost) Classifier
-  - Neural Networks
+  - Support Vector Machine
+  - Gradient Boosting Classifier
 
 ## Research Question
 
