@@ -1,6 +1,6 @@
 # 🧠 Alzheimer's Disease Prediction - Machine Learning 🧠
 
-**View My Solution on Kaggle**[https://www.kaggle.com/code/sahandnamvar/binary-classification-eda-prediction](https://www.kaggle.com/code/sahandnamvar/binary-classification-eda-prediction)
+**View My Solution on Kaggle:** [Link](https://www.kaggle.com/code/sahandnamvar/binary-classification-eda-prediction)
 
 ## Team Members
 
