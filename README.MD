@@ -21,7 +21,6 @@ The goal of this project is to apply and compare several machine learning classi
   - Random Forest
   - K-Nearest Neighbor (KNN)
   - Logistic Regression
-  - Random Forest Classifier
   - Support Vector Machine
   - Gradient Boosting Classifier
 
