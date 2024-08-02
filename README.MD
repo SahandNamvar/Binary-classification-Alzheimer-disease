@@ -90,7 +90,7 @@ How effective are different machine learning classification algorithms in predic
 - **Exploratory Data Analysis (EDA)** - visualize features' relationships & distributions.
 - **Data Preprocessing** - Scale cumulative features. Convert categorical features to binary.
 - **Model Training & Testing** - Train & test models on the preprocessed data. Select top 10 features with higher importance relevant to the target variable to improve the models.
-- **Model Evaluation** - Evaluate the models' performance and plot the Neural Networks' validation graph.
+- **Model Evaluation** - Evaluate the models' performance based on different test-scores & confusion-matrix.
 
 ## Dataset Citation
 
